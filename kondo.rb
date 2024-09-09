@@ -1,7 +1,8 @@
 def sample_method(number)
-  number += 1
+  number += 2
 end
 
 sample_method(1)
 
 puts "Ruby"
+puts "Rails"
