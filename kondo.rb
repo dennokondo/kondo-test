@@ -3,3 +3,5 @@ def sample_method(number)
 end
 
 sample_method(1)
+
+puts "Ruby"
