@@ -5,3 +5,4 @@ end
 sample_method(1)
 
 puts "Ruby"
+puts "Rails"
