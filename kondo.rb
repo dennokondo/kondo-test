@@ -6,3 +6,5 @@ sample_method(1)
 
 puts "Ruby"
 puts "Rails"
+
+number_judge = false
