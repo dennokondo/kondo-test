@@ -11,3 +11,5 @@ number_judge = false
 if number_judge
   puts "true"
 end
+
+puts "false"
