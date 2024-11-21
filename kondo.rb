@@ -5,7 +5,7 @@ end
 sample_method(1)
 
 #puts "Ruby"
-puts "Rails"
+#puts "Rails"
 
 number_judge = false
 if number_judge
