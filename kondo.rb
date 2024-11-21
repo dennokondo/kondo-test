@@ -12,4 +12,4 @@ if number_judge
   puts "true"
 end
 
-puts "false"
+#puts "false"
