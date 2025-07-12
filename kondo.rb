@@ -4,3 +4,11 @@ def sample_method(number)
 end
 
 sample_method(1)
+
+engineer = true
+
+if engineer
+  puts "OK"  
+else 
+  puts "NG"
+end
