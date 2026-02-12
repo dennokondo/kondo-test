@@ -19,3 +19,10 @@ def revert(achievement)
     Rails.logger.debug "one more"
   end
 end
+
+# new year
+def greet(year)
+  puts "#{year}になりました！"
+end
+
+greet("2026")
