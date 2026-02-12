@@ -12,3 +12,10 @@ if engineer
 else 
   puts "NG"
 end
+
+# revert
+def revert(achievement)
+  if achievement.blank?
+    Rails.logger.debug "one more"
+  end
+end
